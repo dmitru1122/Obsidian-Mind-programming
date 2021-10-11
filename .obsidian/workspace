@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "c63e02285f3d89c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b682ddd7543618",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f484bb39bde231b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "88dd650459da40cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86060875b2eebef5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "92c492e054555e3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df412852e81f297e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b77a47787d27892b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4a8c3e0bdfa03bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "71b682ddd7543618",
+  "lastOpenFiles": [
+    "Function.md",
+    "Object.md",
+    "DataType.md",
+    "null.md",
+    "JavaScript.md",
+    "VariableType.md",
+    "undefiend.md",
+    "Untitled.md",
+    "programming paradigms.md",
+    "program paradigms.md"
+  ]
+}

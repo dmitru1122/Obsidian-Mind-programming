@@ -1,0 +1,4 @@
+[[DataTypeJavaScript]]
+
+[[VariableType]]
+
